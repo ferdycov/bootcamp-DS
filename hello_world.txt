@@ -21,3 +21,13 @@ Hello world
 
 Workflow Git yang paling umum:
 edit file → git add → git commit → git push
+
+Edit file
+   ↓
+git status
+   ↓
+git add
+   ↓
+git commit
+   ↓
+git push
