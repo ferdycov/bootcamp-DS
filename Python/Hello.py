@@ -1,3 +1,4 @@
-print("hello world")
-print("hello world")
-print("hello world")
+# hello_world.py
+
+# Menampilkan teks Hello World
+print("Hello, World!")
